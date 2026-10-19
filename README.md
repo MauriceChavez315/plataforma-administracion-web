@@ -55,7 +55,7 @@ El sistema centraliza el control de inventario de cuentas maestras, asignación 
 
 ---
 
-## 📸 Vistas de la Aplicación
+##  Vistas de la Aplicación
 
 <div align="center">
 
@@ -67,7 +67,7 @@ El sistema centraliza el control de inventario de cuentas maestras, asignación 
 
 ---
 
-## 📂 Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ```plaintext
 plataforma-administracion-web/
