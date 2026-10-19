@@ -10,6 +10,12 @@
 [![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud%20API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://business.facebook.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+<br><br>
+
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="Panel de Control y Métricas en Tiempo Real" width="100%" style="border-radius: 8px;">
+</p>
+
 </div>
 
 ---
@@ -49,7 +55,19 @@ El sistema centraliza el control de inventario de cuentas maestras, asignación 
 
 ---
 
-##  Arquitectura del Proyecto
+## 📸 Vistas de la Aplicación
+
+<div align="center">
+
+| Panel de Control & Métricas | Inicio de Sesión Seguro |
+| :---: | :---: |
+| <img src="docs/screenshots/dashboard.png" alt="Panel de Control y Métricas" width="100%"> | <img src="docs/screenshots/login.png" alt="Pantalla de Autenticación" width="100%"> |
+
+</div>
+
+---
+
+## 📂 Arquitectura del Proyecto
 
 ```plaintext
 plataforma-administracion-web/
