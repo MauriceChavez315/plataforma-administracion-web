@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MauriceChavez315/plataforma-administracion-web.git"
+    "url": "git+https://github.com/maurz-dev/plataforma-administracion-web.git"
   },
   "keywords": [
     "gestion-cuentas",
@@ -25,9 +25,9 @@
   "author": "Maurice Chavez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MauriceChavez315/plataforma-administracion-web/issues"
+    "url": "https://github.com/maurz-dev/plataforma-administracion-web/issues"
   },
-  "homepage": "https://github.com/MauriceChavez315/plataforma-administracion-web#readme",
+  "homepage": "https://github.com/maurz-dev/plataforma-administracion-web#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",

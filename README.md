@@ -113,7 +113,7 @@ plataforma-administracion-web/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/MauriceChavez315/plataforma-administracion-web.git
+git clone https://github.com/maurz-dev/plataforma-administracion-web.git
 cd plataforma-administracion-web
 ```
 
