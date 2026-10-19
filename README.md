@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Plataforma de Administración Web & Gestión de Cuentas
+#  Plataforma de Administración Web & Gestión de Cuentas
 
 **Solución integral y profesional para la administración de clientes, perfiles de streaming, pagos y notificaciones automatizadas por WhatsApp.**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Descripción General
+##  Descripción General
 
 **Plataforma de Administración Web** es un sistema CRM y ERP diseñado específicamente para negocios de distribución y venta de cuentas/perfiles digitales (Netflix, Disney+, Spotify, HBO Max, Prime Video, etc.). 
 
@@ -22,22 +22,22 @@ El sistema centraliza el control de inventario de cuentas maestras, asignación 
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 | Módulo | Descripción |
 | :--- | :--- |
-| 👥 **Gestión de Clientes** | Directorio centralizado de clientes con número telefónico, historial de compras, suscripciones activas y notas. |
-| 📺 **Cuentas Maestras y Perfiles** | Control de stock de cuentas proveedores, credenciales, pines de acceso, perfiles totales vs ocupados y fechas de renovación. |
-| 💳 **Pagos y Comprobantes** | Registro de transacciones con soporte para carga de comprobantes (`jpg`, `png`, `gif`), métodos de pago configurables y estados de validación. |
-| 🤖 **Bot de WhatsApp** | Envío de notificaciones automáticas programadas (recordatorios de cobro, avisos de vencimiento, confirmación de pagos y reportes administrativos). Cuenta con modo **simulado** (desarrollo) y **real** (Meta Cloud API). |
-| 📊 **Dashboard y Métricas** | Estadísticas financieras en tiempo real, ingresos mensuales, comparativas contra periodos anteriores y selector multi-moneda (**USD**, **MXN**, **PEN**). |
-| 🛡️ **Seguridad y Roles (RBAC)** | Autenticación robusta basada en JWT y encriptación Bcrypt, con control granular de permisos por módulo (Super Admin, Administrador, Operador/Soporte). |
-| 💬 **Plantillas Personalizables** | Editor de plantillas para mensajes automáticos con variables dinámicas (`{{nombre}}`, `{{servicio}}`, `{{fecha_vencimiento}}`). |
-| ⏱️ **Cron Jobs Automáticos** | Tareas programadas con `node-cron` que evalúan diariamente los estados de cuenta y disparan alertas oportunas. |
+|  **Gestión de Clientes** | Directorio centralizado de clientes con número telefónico, historial de compras, suscripciones activas y notas. |
+| **Cuentas Maestras y Perfiles** | Control de stock de cuentas proveedores, credenciales, pines de acceso, perfiles totales vs ocupados y fechas de renovación. |
+| **Pagos y Comprobantes** | Registro de transacciones con soporte para carga de comprobantes (`jpg`, `png`, `gif`), métodos de pago configurables y estados de validación. |
+| **Bot de WhatsApp** | Envío de notificaciones automáticas programadas (recordatorios de cobro, avisos de vencimiento, confirmación de pagos y reportes administrativos). Cuenta con modo **simulado** (desarrollo) y **real** (Meta Cloud API). |
+|  **Dashboard y Métricas** | Estadísticas financieras en tiempo real, ingresos mensuales, comparativas contra periodos anteriores y selector multi-moneda (**USD**, **MXN**, **PEN**). |
+|  **Seguridad y Roles (RBAC)** | Autenticación robusta basada en JWT y encriptación Bcrypt, con control granular de permisos por módulo (Super Admin, Administrador, Operador/Soporte). |
+|  **Plantillas Personalizables** | Editor de plantillas para mensajes automáticos con variables dinámicas (`{{nombre}}`, `{{servicio}}`, `{{fecha_vencimiento}}`). |
+| **Cron Jobs Automáticos** | Tareas programadas con `node-cron` que evalúan diariamente los estados de cuenta y disparan alertas oportunas. |
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 - **Backend:** Node.js, Express.js (REST API modular)
 - **Base de Datos:** PostgreSQL con pool de conexiones (`pg`)
@@ -49,7 +49,7 @@ El sistema centraliza el control de inventario de cuentas maestras, asignación 
 
 ---
 
-## 📂 Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ```plaintext
 plataforma-administracion-web/
@@ -84,7 +84,7 @@ plataforma-administracion-web/
 
 ---
 
-## 🚀 Guía de Inicio Rápido
+##  Guía de Inicio Rápido
 
 ### Requisitos Previos
 
@@ -169,7 +169,7 @@ Visita `http://localhost:3000` en tu navegador e inicia sesión con las credenci
 
 ---
 
-## 🤖 Integración con WhatsApp Cloud API
+##  Integración con WhatsApp Cloud API
 
 El sistema soporta dos modos de operación configurables mediante la variable `WHATSAPP_MODE`:
 
@@ -186,7 +186,7 @@ El sistema soporta dos modos de operación configurables mediante la variable `W
 
 ---
 
-## 🔐 Matriz de Permisos y Roles (RBAC)
+##  Matriz de Permisos y Roles (RBAC)
 
 El sistema incluye control de acceso basado en roles:
 
@@ -203,7 +203,7 @@ El sistema incluye control de acceso basado en roles:
 
 ---
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 Las contribuciones son bienvenidas. Para cambios importantes:
 
@@ -215,12 +215,12 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se encuentra bajo la Licencia [MIT](LICENSE).
 
 ---
 
 <div align="center">
-Desarrollado con ❤️ por <b>Maurice Chavez</b>
+Desarrollado por <b>Maurice Chavez</b>
 </div>
