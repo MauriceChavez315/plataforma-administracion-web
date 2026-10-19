@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment & Credentials
+.env
+.env*.local
+.env.production
+.env.staging
+
+# Uploads & User Generated Files
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Temporary / Scratch Files
+temp-extract/
+scratch/
+temp/
+tmp/
+*.tmp
+convert_currency.js
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Diagnostics
+*.log
